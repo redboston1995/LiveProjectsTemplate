@@ -9,6 +9,5 @@ You can go back to them when you forget a crucial step :-)
 Add files  with a name like:
 
 ```
-worklog_<yourname>_<ddmmyy>.md
 ```
 
